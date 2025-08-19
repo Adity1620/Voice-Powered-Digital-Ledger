@@ -5,4 +5,3 @@ soundfile
 sqlalchemy
 streamlit-audiorec
 openai-whisper
-ffmpeg-python
